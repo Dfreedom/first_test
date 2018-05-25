@@ -1,3 +1,3 @@
 # first_test
 the first test repository
-it is a test, haha.
+修改一下，汉语的。
